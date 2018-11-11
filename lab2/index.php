@@ -117,7 +117,7 @@ table, th, td {
 
 p,div,img
 {
-    display: inline-block;
+    display: inline;
     /* float: left; */
     text-align: center;
 }
